@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">radiogroup</string>
+    <string name="buttonName01">Buttonname</string>
+    <string name="radiogroupbtn01">한글로 라디오그룹버튼</string>
+    <string name="radiogroupbtn02">라디오그룹버튼두번째</string>
+    <string name="radiogroupbtn03">라디오그룹버튼첫번째</string>
+    <string name="choice_one">Choice One</string>
+</resources>
